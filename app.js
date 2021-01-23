@@ -168,7 +168,7 @@ function ask(response) {
                 </div>
                 <div class="d-flex">
                     <h5 class="mb-1">${item.title}</h5>
-                    <small class="text-muted" style='padding-left: 1rem;'>(${item.domain})</small>
+                   
                 </div>
         
                 <p class="mb-1">by ${item.user}</p>
